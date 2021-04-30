@@ -1,0 +1,5 @@
+as of 30 apr 2021
+
+I need to add keyboard support for things like decimal
+I need compatability on mobile so it looks correct and doesn't zoom in and it isnt as laggy
+Want to add changeable keybinds set by the user
